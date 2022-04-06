@@ -85,3 +85,8 @@ background-color: #ddd;
 .dropdown:hover .dropdown-content {
 display: block;
 }
+#sec{
+    top : 0;
+    width: 100%;
+position: fixed;  
+}
