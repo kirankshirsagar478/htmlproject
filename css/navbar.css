@@ -7,13 +7,13 @@ ul {
 
 ul li {
     list-style: none;
-    padding: 10px 20px;
+    padding: 10px 45px;
 
 }
 
 ul li a {
     text-decoration: none;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: bold;
     color: black;
     position: relative;
@@ -46,7 +46,7 @@ overflow: hidden;
 
 }
 .dropdown .dropbtn {
-font-size: 24px; 
+font-size: 30px; 
 font-weight: bold; 
 border: none;
 outline: none;
