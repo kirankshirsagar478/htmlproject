@@ -1,5 +1,5 @@
 .footer-dark {
-    padding:50px 0;
+    padding:1px 0;
     color:#f0f9ff;
     background-color:#282d32;
   }
@@ -11,7 +11,7 @@
     font-size:16px;
   }
   
-  .footer-dark ul {
+  .footer-dark ol {
     padding:0;
     list-style:none;
     line-height:1.6;
@@ -19,13 +19,13 @@
     margin-bottom:0;
   }
   
-  .footer-dark ul a {
+  .footer-dark ol a {
     color:inherit;
     text-decoration:none;
     opacity:0.6;
   }
   
-  .footer-dark ul a:hover {
+  .footer-dark ol a:hover {
     opacity:0.8;
   }
   
@@ -85,7 +85,20 @@
     padding-top:24px;
     opacity:0.3;
     font-size:13px;
-    margin-bottom:0;
+    margin-bottom: 10px;
+  }
+  .service {
+    padding-left: 50px;
+  }
+  .about {
+    padding-left: 150px;
+  }
+
+  .comp {
+    padding-left: 330px;
+    padding-right: 220px;
+    align-items: left;
+    text-align: justify;
   }
   
   
